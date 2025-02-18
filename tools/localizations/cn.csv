@@ -86,9 +86,15 @@ Aqara Wireless Mini Switch T1,Aqara 无线开关 T1
 "WISTAR WSER40 Smart Tubular Motor",威仕达智能管状电机 WSER40
 "WISTAR WSER50 Smart Tubular Motor",威仕达智能管状电机 WSER50
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Zemismart ZM24A Smart Curtain", Zemismart ZM24A 智能窗帘
 =======
 "Heiman Smoke Sensor",海曼智能烟雾传感器
 "Heiman CO Sensor",海曼智能一氧化碳传感器
 "Smart co sensor",海曼智能一氧化碳传感器
 >>>>>>> upstream/main
+=======
+"Heiman Smoke Sensor",海曼智能烟雾传感器
+"Heiman CO Sensor",海曼智能一氧化碳传感器
+"Smart co sensor",海曼智能一氧化碳传感器
+>>>>>>> 7b20ac390c0455e99a1e373dd13dea4e47c59ba9
